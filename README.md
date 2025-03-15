@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋Hi, Junchen Liu Here
+# Education: 
+2022-Present   Zhengzhou University(CN)
 <!--
 **MooreMorriso/MooreMorriso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
