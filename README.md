@@ -1,26 +1,26 @@
 # 👋Hi, Junchen Liu Here
 ## Education: 
-2022-Present       Zhengzhou University(CN)
+<b>2022-Present</b>       Zhengzhou University(CN)
 ## Research Experience
   ### Telecommunication
-  2025 UAV Detection with the Fusion Data of Lidar and Vision, Zhengzhou University
-  2024 Design of the 5G IoT Bean Planter, Zhengzhou University
+  <b>2025</b> UAV Detection with the Fusion Data of Lidar and Vision, Zhengzhou University</br>
+  <b>2024</b> Design of the 5G IoT Bean Planter, Zhengzhou University
   ### Robotics:
-  2025 Key Technologies of Autonomous Learning and Evolution of Indoor Service Robot, Peking University
-  2024 Research on Algorithm of Obstacle Avoidance on Follow the Gap Method, Zhengzhou University
+  <b>2025</b> Key Technologies of Autonomous Learning and Evolution of Indoor Service Robot, Peking University</br>
+  <b>2024</b> Research on Algorithm of Obstacle Avoidance on Follow the Gap Method, Zhengzhou University
 ## Competition
   ### Robotics
-  2024 RAICOM Robot Development Competition, National Second Prize
-  2024 RoboCup China Open & China Robot Competition, National Second Prize & National Third Prize
-  2024 China Robotics and Artificial Intelligence Competition, National Second Prize
+  <b>2024</b> RAICOM Robot Development Competition, National Second Prize</br>
+  <b>2024</b> RoboCup China Open & China Robot Competition, National Second Prize & National Third Prize</br>
+  <b>2024</b> China Robotics and Artificial Intelligence Competition, National Second Prize
   ### Mechanics
-  2024 The National Undergraduate Mechanical Innovational Competition, National Second Prize
+  <b>2024</b> The National Undergraduate Mechanical Innovational Competition, National Second Prize</br>
 ## Patent
   多功能自走式双行豆类播种机, ZL 2024 2 1467844.2
 ## How to Contact Me?
-  Until July,2026, You can email me at morriso@stu.zzu.edu.cn.
-  Permenant Email is l357540899@163.com
-  (First letter is L instead of a number)
+  <b>Until July,2026</b>, You can email me at morriso@stu.zzu.edu.cn.</br>
+  Permenant Email is l357540899@163.com</br>
+  <b>(First letter is L instead of a number)</b>
 <!--
 **MooreMorriso/MooreMorriso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
