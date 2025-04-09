@@ -8,6 +8,7 @@
   ### Robotics:
   <b>2025</b> Key Technologies of Autonomous Learning and Evolution of Indoor Service Robot, Peking University</br>
   <b>2024</b> Research on Algorithm of Obstacle Avoidance on Follow the Gap Method, Zhengzhou University
+  <b>2024</b> Reasearch on Far-field Robot KWS Spotting, Zhengzhou University
 ## Competition
   ### Robotics
   <b>2024</b> RAICOM Robot Development Competition, National Second Prize</br>
