@@ -1,5 +1,5 @@
 # 👋Hi, Junchen Liu Here
-## Education: 
+## Education
 <b>2026-2029(Expected)</b>       University of Science and Technology of China(CN), Master of Robotics</br>
 <b>2022-2026(Expected)</b>       Zhengzhou University(CN), Telecommunication, Bachelor of Telecommunication
 ## Research Experience
