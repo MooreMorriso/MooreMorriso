@@ -1,6 +1,7 @@
 # 👋Hi, Junchen Liu Here
 ## Education: 
-<b>2022-Present</b>       Zhengzhou University(CN)
+<b>2026-2029(Expected)</b>       University of Science and Technology of China(CN), Master of Robotics
+<b>2022-2026(Expected)</b>       Zhengzhou University(CN), Telecommunication, Bachelor of Telecommunication
 ## Research Experience
   ### Telecommunication
   <b>2025</b> UAV Detection with the Fusion Data of Lidar and Vision, Zhengzhou University</br>
@@ -11,6 +12,7 @@
   <b>2024</b> Research on Far-field Robot KWS Spotting, Zhengzhou University
 ## Competition
   ### Robotics
+  <b>2025</b> National University Students Intelligent Car Race, National Second Prize</br>
   <b>2024</b> RAICOM Robot Development Competition, National Second Prize</br>
   <b>2024</b> RoboCup China Open & China Robot Competition, National Second Prize & National Third Prize</br>
   <b>2024</b> China Robotics and Artificial Intelligence Competition, National Second Prize
@@ -18,6 +20,7 @@
   <b>2024</b> The National Undergraduate Mechanical Innovational Competition, National Second Prize</br>
 ## Patent
   多功能自走式双行豆类播种机, ZL 2024 2 1467844.2
+## Eagerly Seeking Research Assitance Opportunity in Robotics or Embodied Intellegence.
 ## How to Contact Me?
   <b>Until July,2026</b>, You can email me at morriso@stu.zzu.edu.cn.</br>
   Permenant Email is l357540899@163.com</br>
