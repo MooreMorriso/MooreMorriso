@@ -1,6 +1,6 @@
 # 👋Hi, Junchen Liu Here
 ## Education: 
-<b>2026-2029(Expected)</b>       University of Science and Technology of China(CN), Master of Robotics
+<b>2026-2029(Expected)</b>       University of Science and Technology of China(CN), Master of Robotics</br>
 <b>2022-2026(Expected)</b>       Zhengzhou University(CN), Telecommunication, Bachelor of Telecommunication
 ## Research Experience
   ### Telecommunication
@@ -20,7 +20,8 @@
   <b>2024</b> The National Undergraduate Mechanical Innovational Competition, National Second Prize</br>
 ## Patent
   多功能自走式双行豆类播种机, ZL 2024 2 1467844.2
-## Eagerly Seeking Research Assitance Opportunity in Robotics or Embodied Intellegence.
+## Eagerly Seeking Research Assistant Opportunity in Robotics or Embodied Intellegence.
+<b>Please feel free to email me if you are in want of a research assitant whose research experiences, skills and personality could align with and be a matched help of your ongoing research projects.</b> We can always schedule a chat to see if there is any intersection of interest. Happy to collaborate!
 ## How to Contact Me?
   <b>Until July,2026</b>, You can email me at morriso@stu.zzu.edu.cn.</br>
   Permenant Email is l357540899@163.com</br>
