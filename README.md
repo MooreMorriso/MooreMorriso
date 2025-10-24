@@ -12,6 +12,7 @@
   <b>2024</b> Research on Far-field Robot KWS Spotting, Zhengzhou University
 ## Competition
   ### Robotics
+  <b>2025</b> RoboCup China Open & China Robot Competition, Champion</br>
   <b>2025</b> National University Students Intelligent Car Race, National Second Prize</br>
   <b>2024</b> RAICOM Robot Development Competition, National Second Prize</br>
   <b>2024</b> RoboCup China Open & China Robot Competition, National Second Prize & National Third Prize</br>
