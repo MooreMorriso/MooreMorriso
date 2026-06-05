@@ -4,7 +4,7 @@
 <b>2022-2026</b>       Zhengzhou University(CN), Telecommunication, Bachelor of Telecommunication
 ## Research Experience
   ### Robotics:
-  <b>2026</b> Research on Infrared and Visible Light Fusion Navigation Method Based on Fixed Monitoring Perspective, University of Science and Technology</br>
+  <b>2026</b> Research on Infrared and Visible Light Fusion Navigation Method Based on Fixed Monitoring Perspective, University of Science and Technology of China</br>
   <b>2025</b> Key Technologies of Autonomous Learning and Evolution of Indoor Service Robot, Peking University</br>
   <b>2024</b> Research on Algorithm of Obstacle Avoidance on Follow the Gap Method, Zhengzhou University </br>
   <b>2024</b> Research on Far-field Robot KWS Spotting, Zhengzhou University
